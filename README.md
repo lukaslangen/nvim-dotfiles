@@ -9,3 +9,4 @@ These are my dotfiles for neovim.
 - (Vim Plug)[https://github.com/junegunn/vim-plug]
 - (Coc Nvim)[https://github.com/neoclide/coc.nvim]
 - (Intelephense Language Server)[https://intelephense.com/]
+- (fzf)[https://github.com/junegunn/fzf]
